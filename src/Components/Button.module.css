@@ -1,0 +1,72 @@
+.join{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin: 10px;
+    background-color:#77bff7;
+}
+.setting{
+    background-color: grey;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px;
+    color: white;  
+}
+.contact{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin: 10px;
+    background-color: orange;
+}
+.download{
+    background-color: #D39c3E;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px;
+    color: white;  
+}
+.help{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin: 10px;
+    background-color: #272727;
+}
+.home{
+    background-color: lightpink;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px;
+    color: white;  
+}
+.login{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin: 10px;
+    background-color: yellowgreen;
+}
+.search{
+    background-color: lightgreen;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px;
+    color: white;  
+}
